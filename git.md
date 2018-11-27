@@ -12,6 +12,6 @@ id_rsa.pub文件中的内容放到key中。
 `ssh -T -v git@github.com` 
 成功提示如下： You've successfully authenticated, but GitHub does not provide shell access. 
 * 6、使用 
-`$ git clone git@github.com:JeffLi1993/springboot-learning-example.git`
+`$ git clone git@github.com:xiaocao0702/mdwiki.git`
 
 
