@@ -1,5 +1,5 @@
 #### 获取github项目
-1、生成SSH key
+--- 1、生成SSH key
 `ssh-keygen -t rsa`
 2、将生成的
 id_rsa
